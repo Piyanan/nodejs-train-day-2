@@ -1,0 +1,4 @@
+1. Start hello.js application
+2. Stop hello.js
+
+3 Do 1-2 for API application from day #1
