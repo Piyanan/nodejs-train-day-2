@@ -1,0 +1,9 @@
+Assignment
+---------------------------------------------
+1. Run hello1.js and hello2.js applications
+2. Create an upstream configuration
+3. Testing application load balancing
+4. Run hello3.js application
+5. Add hello3 to upstream
+6. Testing application load balancing
+
