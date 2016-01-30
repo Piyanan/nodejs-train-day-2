@@ -1,0 +1,9 @@
+Assignment
+-------------------------------------------
+1. Install nginx
+2. Config nginx for hello.js applcation
+3. Reload nginx configuration
+
+
+4. Config nginx for API application
+
