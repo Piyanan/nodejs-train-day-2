@@ -1,0 +1,3 @@
+#Install keymetrics
+pm2 link [private_key] [public_key]
+pm2 install pm2-server-monit

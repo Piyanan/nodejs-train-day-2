@@ -38,12 +38,12 @@ $ pm2 delete 0           # Will remove process from pm2 list
 $ pm2 delete all         # Will remove all processes from pm2 list
 
 
-สำหรับ Windows Platform
+For Windows Platform
 $ npm install pm2-windows-startup -g
 
 $ pm2-startup install
 
-สำหรับ Unix/Linux Platform
+For Unix/Linux Platform
 $ pm2 startup
 
 Process Autostart จะทำงานหลังจากสั่งบันทึก Process list
